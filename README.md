@@ -1,0 +1,1 @@
+Command-line RAG app: ask questions about your own documents using Gemini embeddings, ChromaDB and Docker.
